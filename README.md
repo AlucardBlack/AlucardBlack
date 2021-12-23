@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlucardBlack
 - 👀 I’m interested in Android and Game Development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android Projects
 - 📫 How to reach me https://www.linkedin.com/in/serhiikulish/
 
 <!---
